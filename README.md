@@ -1,2 +1,6 @@
-# P8ToDoList
-Projet n 8 du parcours developpeur d'applicaions PHP/Symfony sur OpenClassrooms
+ToDoList
+========
+
+Base du projet #8 : Améliorez un projet existant
+
+https://openclassrooms.com/projects/ameliorer-un-projet-existant-1
